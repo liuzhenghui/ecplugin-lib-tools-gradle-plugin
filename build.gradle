@@ -1,0 +1,8 @@
+plugins {
+    id 'java'
+    id 'ecplugin-document-gradle-plugin' version '0.0.2'
+    id 'com.ecplugin.gradle.plugin.version' version '0.1.3'
+}
+
+group = 'com.ecplugin.gradle.plugin'
+version = 'auto'
