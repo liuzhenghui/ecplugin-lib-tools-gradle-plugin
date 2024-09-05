@@ -10,7 +10,7 @@
 
 ```groovy
 plugins {
-    id 'ecplugin-lib-tools-gradle-plugin' version '<version>'
+    id 'com.ecplugin.gradle.plugin.lib-tools' version '<version>'
 }
 ```
 
