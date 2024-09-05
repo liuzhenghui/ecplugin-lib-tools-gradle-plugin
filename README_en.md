@@ -8,9 +8,9 @@
 
 ## Usage
 
-```
+```groovy
 plugins {
-id 'ecplugin-lib-tools-gradle-plugin' version '<version>'
+    id 'ecplugin-lib-tools-gradle-plugin' version '<version>'
 }
 ```
 

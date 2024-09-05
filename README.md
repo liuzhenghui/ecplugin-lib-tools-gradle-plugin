@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-```
+```groovy
 plugins {
     id 'ecplugin-lib-tools-gradle-plugin' version '<version>'
 }
